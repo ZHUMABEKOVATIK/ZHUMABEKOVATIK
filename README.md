@@ -6,7 +6,7 @@ I'm Python Engineer.
 I build backend applications and RESTful APIs with a focus on clean, maintainable code. 4+ years of experience in web development and mentoring.
 
 ### Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PostgreSQL](https://shields.io)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 - **Python**
 - **FastAPI, SQLAlchemy, REST API, Alembic, Aiogram**
 - **SQL, PostgreSQL, PL/PgSQL, SQLite**
