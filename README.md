@@ -1,6 +1,6 @@
 # Hey what's up, I'm Atabek
 
-I'm Python Backend Developer.
+I'm Python Engeneer.
 ---
 
 I build backend applications and RESTful APIs with a focus on clean, maintainable code. 4+ years of experience in web development and mentoring.
