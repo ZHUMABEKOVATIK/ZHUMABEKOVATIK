@@ -10,8 +10,7 @@ I build backend applications and RESTful APIs with a focus on clean, maintainabl
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-323330?style=for-the-badge&logo=sqlalchemy&logoColor=CE563D) 
 
-> [!TIP]
-> Aiogram
+| 🟦 aiogram 3.x |
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 - **Python**
